@@ -3,8 +3,8 @@
 ## User story 1:
 
 ```
-As a user
-So that I can visit my favourite websites quickly
+As a time-pressed user
+So that I can quickly visit my favourite websites
 I would like to see a list of my bookmarks
 ```
 
